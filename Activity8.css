@@ -1,0 +1,32 @@
+body {
+    background-image: url("./wallpaperflare.com_wallpaper.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+table {
+    border-collapse: collapse;
+    color: #f8f8f8;
+    font-family: monospace;
+    font-size: 25px;
+    text-align: left;
+    margin: auto;
+    background-color: #0d022b;
+    border: 1px solid #fcfbff;
+    padding: 8px;
+    border-spacing: 5px;
+    border-radius: 3px;
+    box-shadow: 0 0 10px 0px rgba(0, 0, 0, 0.2);
+    margin-top: 150px;
+    
+}
+
+td, tr {
+    padding: 10px;
+    border: 1px solid #fcfbff;
+    border-radius: 25px;
+    box-shadow: 0 0 10px 0px rgba(0, 0, 0, 0.2);
+    
+}
