@@ -24,9 +24,8 @@ table {
 }
 
 td, tr {
-    padding: 10px;
-    border: 1px solid #fcfbff;
-    border-radius: 25px;
-    box-shadow: 0 0 10px 0px rgba(0, 0, 0, 0.2);
-    
+    padding: 12px;
+    border: 2px solid #3498db;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(52, 152, 219, 0.5);
 }
