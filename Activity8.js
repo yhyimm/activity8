@@ -8,9 +8,10 @@ $(document).ready(function() {
   'Scheme', 'Prolog', 'Clojure', 'VBScript', 'PowerShell', 'Delphi', 'Racket',
   'Erlang', 'PL/SQL', 'Crystal', 'OCaml', 'Bash', 'Pascal', 'Lisp', 'Tcl'];
 
-  $('#languages').autocomplete({
+  $('#language').autocomplete({
     source: availableLangs
   });
 
-  $("#data").datepicker();
+  $("#date").datepicker();
+
 });

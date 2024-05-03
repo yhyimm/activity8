@@ -7,19 +7,16 @@ body {
 }
 
 table {
-   /* Overall Table Style */
 border-collapse: separate;
-border-spacing: 0;
+border-spacing: 0 15px;
 width: 100%;
 max-width: 800px;
 margin: auto;
-
-/* Table Cell Styles */
 color: #ffffff;
 font-family: 'Poppins', sans-serif;
 font-size: 16px;
 text-align: center;
-background-color: #34495e;
+background-color: #3f1500;
 border: none;
 padding: 20px;
 box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -28,7 +25,6 @@ border-radius: 10px;
 
 td, tr {
     padding: 12px;
-    border: 2px solid #3498db;
+    border: 2px solid #dfe9f0;
     border-radius: 20px;
-    box-shadow: 0 4px 8px rgba(52, 152, 219, 0.5);
 }
